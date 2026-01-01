@@ -7,4 +7,7 @@ jobs:
     steps:
       - name: print message
         run: echo "This is my code"
+      - name: write a message
+        run: echo "The code run was successfull"
+      
     
